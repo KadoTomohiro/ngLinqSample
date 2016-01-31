@@ -1,0 +1,26 @@
+{
+  "name": "ngLinqSample",
+  "description": "angular angular-linq",
+  "main": "index.html",
+  "authors": [
+    "KadoTomohiro <corner0427@gmail.com>"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "angular",
+    "angular-linq"
+  ],
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "angularjs#~1.4.9",
+    "angular-linq": "~1.0.2"
+  }
+}
